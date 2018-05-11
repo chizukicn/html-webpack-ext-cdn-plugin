@@ -1,0 +1,16 @@
+{
+  "name": "html-webpack-ext-cdn-plugin",
+  "version": "0.0.4",
+  "description": "webpack plugin",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel ./src --presets babel-preset-env --out-dir ./dist"
+  },
+  "author": "Kritsu",
+  "license": "MIT",
+  "email": "kritsu@qq.com",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
