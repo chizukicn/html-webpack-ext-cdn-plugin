@@ -3,6 +3,12 @@ Installation
 
 > 
     npm install html-webpack-ext-cdn-plugin --save-dev
+    or
+    yarn add html-webpack-ext-cdn-plugin ---dev
+
+About
+--
+   
 
 Use
 --
